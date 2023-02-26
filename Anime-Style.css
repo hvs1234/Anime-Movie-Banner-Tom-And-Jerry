@@ -1,0 +1,14 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.set h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: darkmagenta;
+    font-size: 4rem;
+}
